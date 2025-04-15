@@ -4,7 +4,7 @@ Copy the SR04.NIM file in your business directors (or in a folder where you put 
 # impoort sr04
 
 Now to use it, just initialize the object with:
-#var sens = initSr04(trig=2, echo=3) 
+# var sens = initSr04(trig=2, echo=3) 
 
 Where (in this case) the PIN (Gpio) 2 will be the Trigger (starting impulse) and 3 (Gpio) will be the pin on which the echo of the impulse arrives.
 The real measure of the distance will be calculated by the procedure:
