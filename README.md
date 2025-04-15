@@ -1,1 +1,1 @@
-# Sr04-for-Nim
+# Distance sensor library SR04 written in NIM for PR2040
